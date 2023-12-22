@@ -1,4 +1,5 @@
-# design pattern for luolawlan
+#Read
+Design Pattern for luolawlan
 
-# license
-MIT
+# Contact
+email: luolawlan@outlook.com
